@@ -2,13 +2,16 @@
     "name": "sabermetrics",
     "version": "1.0.1",
     "description": "A simple, growing library of sabermetric calculators built with TypeScript",
-    "main": "index.ts",
+    "main": "./dist/index.ts",
     "license": "MIT",
     "scripts": {
-        "test": "jest"
+        "test": "jest",
+        "build": "babel --extensions '.ts' ./src -d ./dist"
     },
     "dependencies": {},
     "devDependencies": {
+        "@babel/cli": "^7.10.3",
+        "@babel/core": "^7.10.3",
         "@babel/preset-env": "^7.10.3",
         "@babel/preset-typescript": "^7.10.1",
         "@types/jest": "^26.0.3",
