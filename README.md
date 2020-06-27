@@ -1,4 +1,4 @@
-⚾ sabermetrics ⚾
+# ⚾ sabermetrics ⚾
 
 ![simpsons-sabermetrics](simpsons-sabermetrics.jpg "Logo Title Text 1")
 
