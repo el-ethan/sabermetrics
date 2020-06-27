@@ -1,6 +1,6 @@
 {
     "name": "sabermetrics",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A simple, growing library of sabermetric calculators built with TypeScript",
     "main": "./dist/index.ts",
     "license": "MIT",
