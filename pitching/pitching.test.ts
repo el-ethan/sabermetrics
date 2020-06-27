@@ -1,7 +1,7 @@
 import {whip} from './pitching';
 
 describe('WHIP', () => {
-    it('is calculated by adding walks and hits and dividing by innings pitched', () => {
+    it("Calculates Mariano Rivera's career WHIP correctly based on his career BB, H, and IP", () => {
         const walks = 286;
         const hitsAllowed = 998;
         const inningsPitched = 1283.2;
