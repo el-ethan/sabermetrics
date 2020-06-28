@@ -7,4 +7,4 @@
 
 ## List of supported metrics:
 
-⚾ [WHIP](pitching/pitching.ts)
+⚾ [WHIP](https://github.com/el-ethan/sabermetrics/blob/103001c3cf2ac2fd526c3ddf05802730af67e4af/src/pitching/pitching.ts#L1)
