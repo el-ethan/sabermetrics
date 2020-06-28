@@ -7,6 +7,16 @@
         "type": "git",
         "url": "https://github.com/el-ethan/sabermetrics"
     },
+    "keywords": [
+        "baseball",
+        "stats",
+        "sabr",
+        "metrics",
+        "fantasy baseball",
+        "moneyball",
+        "roto",
+        "sports"
+    ],
     "license": "MIT",
     "scripts": {
         "test": "jest",
