@@ -3,6 +3,10 @@
     "version": "1.0.4",
     "description": "A simple, growing library of sabermetric calculators built with TypeScript",
     "main": "./dist/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/el-ethan/sabermetrics"
+    },
     "license": "MIT",
     "scripts": {
         "test": "jest",
