@@ -1,6 +1,6 @@
 {
     "name": "sabermetrics",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "A simple, growing library of sabermetric calculators built with TypeScript",
     "main": "./dist/index.js",
     "repository": {
