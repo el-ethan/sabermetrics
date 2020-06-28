@@ -8,4 +8,4 @@
 
 ⚾ [WHIP](https://github.com/el-ethan/sabermetrics/blob/103001c3cf2ac2fd526c3ddf05802730af67e4af/src/pitching/pitching.ts#L1)
 
-⚾ [K/9]()
+⚾ [K/9](https://github.com/el-ethan/sabermetrics/blob/10e48ebee718374301d8c0ace72a01a8ca86aa50/src/pitching/pitching.ts#L5)
