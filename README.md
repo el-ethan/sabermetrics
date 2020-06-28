@@ -1,6 +1,6 @@
 # ⚾ sabermetrics ⚾
 
-![simpsons-sabermetrics](https://github.com/el-ethan/sabermetrics/blob/master/simpsons-sabermetrics.jpg 'Logo Title Text 1')
+![simpsons-sabermetrics](https://user-images.githubusercontent.com/10249884/85957017-57835080-b94f-11ea-85f2-ed63d2edaa31.png 'Logo Title Text 1')
 
 `sabermetrics` is a fully tested collection of calculators and utility methods built with TypeScript for calculating [sabermetrics](https://en.wikipedia.org/wiki/Sabermetrics) and things related to those metrics (like calculating whether a give value for WHIP is high, low, or average).
 
